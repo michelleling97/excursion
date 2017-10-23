@@ -1,0 +1,35 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  font-align: centered;
+}
+
+html {
+  background-color: black;
+  text-align: center;
+  font-family: verdana;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: verdana;
+}
+h2 {
+  color: white;
+  font-size: 42px;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+#excursion {
+  text-align:right !important;
+  color: gray !important;
+}
